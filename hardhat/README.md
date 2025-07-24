@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+## Deployed Contract Addresses
+## (Hardhat - Celo Alfajores):
+https://alfajores.celoscan.io/address/0x411537493ef26993e585ed86A0ca08BdA74D0F82
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+## (Foundry - Celo Alfajores): _to be added
